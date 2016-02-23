@@ -1,0 +1,12 @@
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe.config
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\Program.cdfy
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.pdb
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\Cudafy.NET.dll
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\Cudafy.NET.xml
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\obj\x86\Release\CudafyIntroduction.exe
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\obj\x86\Release\CudafyIntroduction.pdb
+C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\obj\x86\Release\CudafyIntroduction.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Documents\Visual Studio 2012\Projects\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe.config
+C:\Users\jacopo\Documents\Visual Studio 2012\Projects\CudafyIntroduction\CudafyIntroduction\obj\x86\Release\CudafyIntroduction.exe
+C:\Users\jacopo\Documents\Visual Studio 2012\Projects\CudafyIntroduction\CudafyIntroduction\obj\x86\Release\CudafyIntroduction.pdb

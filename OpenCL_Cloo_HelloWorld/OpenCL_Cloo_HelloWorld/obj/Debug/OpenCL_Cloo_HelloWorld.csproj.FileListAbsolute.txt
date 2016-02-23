@@ -1,0 +1,12 @@
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\OpenCL_Cloo_HelloWorld.exe.config
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\OpenCL_Cloo_HelloWorld.exe
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\OpenCL_Cloo_HelloWorld.pdb
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\Cloo.dll
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\Clootils.exe
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\Cloo.xml
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\obj\Debug\OpenCL_Cloo_HelloWorld.exe
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\obj\Debug\OpenCL_Cloo_HelloWorld.pdb
+c:\users\jacopo\documents\visual studio 2015\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\obj\Debug\OpenCL_Cloo_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Desktop\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\bin\Debug\OpenCL_Cloo_HelloWorld.exe.config
+C:\Users\jacopo\Desktop\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\obj\Debug\OpenCL_Cloo_HelloWorld.exe
+C:\Users\jacopo\Desktop\Projects\OpenCL_Cloo_HelloWorld\OpenCL_Cloo_HelloWorld\obj\Debug\OpenCL_Cloo_HelloWorld.pdb

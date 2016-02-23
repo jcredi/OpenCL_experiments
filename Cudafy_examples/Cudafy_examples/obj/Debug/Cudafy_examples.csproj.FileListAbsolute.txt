@@ -1,0 +1,8 @@
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\bin\Debug\Cudafy_examples.exe.config
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\bin\Debug\Cudafy_examples.exe
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\bin\Debug\Cudafy_examples.pdb
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\bin\Debug\Cudafy.NET.dll
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\bin\Debug\Cudafy.NET.xml
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.csprojResolveAssemblyReference.cache
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.exe
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.pdb

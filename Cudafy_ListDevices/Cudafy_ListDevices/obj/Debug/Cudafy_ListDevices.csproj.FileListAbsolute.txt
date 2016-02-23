@@ -1,0 +1,8 @@
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\bin\Debug\Cudafy_ListDevices.exe.config
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\obj\Debug\Cudafy_ListDevices.csprojResolveAssemblyReference.cache
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\bin\Debug\Cudafy_ListDevices.exe
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\bin\Debug\Cudafy_ListDevices.pdb
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\bin\Debug\Cudafy.NET.dll
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\bin\Debug\Cudafy.NET.xml
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\obj\Debug\Cudafy_ListDevices.exe
+c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_ListDevices\Cudafy_ListDevices\obj\Debug\Cudafy_ListDevices.pdb

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Program" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="f9e4f95b-194e-49d4-b06a-1644449b10a7" Language="OpenCL" Arch="OpenCL12">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5SW50cm9kdWN0aW9uLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIG15S2VybmVsKCk7DQovLyBDdWRhZnlJbnRyb2R1Y3Rpb24uUHJvZ3JhbQ0KX19rZXJuZWwgIHZvaWQgYWRkKGludCBhLCBpbnQgYiwgZ2xvYmFsIGludCogYywgaW50IGNMZW4wKTsNCi8vIEN1ZGFmeUludHJvZHVjdGlvbi5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBXcml0ZUhlbGxvV29ybGRPbkdQVShnbG9iYWwgdW5zaWduZWQgc2hvcnQqIGMsIGludCBjTGVuMCk7DQovLyBDdWRhZnlJbnRyb2R1Y3Rpb24uUHJvZ3JhbQ0KX19rZXJuZWwgIHZvaWQgYWRkVmVjdG9yKGdsb2JhbCBpbnQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGludCogYiwgaW50IGJMZW4wLCBnbG9iYWwgaW50KiBjLCBpbnQgY0xlbjApOw0KDQovLyBDdWRhZnlJbnRyb2R1Y3Rpb24uUHJvZ3JhbQ0KX19rZXJuZWwgIHZvaWQgbXlLZXJuZWwoKQ0Kew0KfQ0KLy8gQ3VkYWZ5SW50cm9kdWN0aW9uLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIGFkZChpbnQgYSwgaW50IGIsIGdsb2JhbCBpbnQqIGMsIGludCBjTGVuMCkNCnsNCgljWygwKV0gPSBhICsgYjsNCn0NCi8vIEN1ZGFmeUludHJvZHVjdGlvbi5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBXcml0ZUhlbGxvV29ybGRPbkdQVShnbG9iYWwgdW5zaWduZWQgc2hvcnQqIGMsIGludCBjTGVuMCkNCnsNCgljWygwKV0gPSA3MjsNCgljWygxKV0gPSAxMDE7DQoJY1soMildID0gMTA4Ow0KCWNbKDMpXSA9IDEwODsNCgljWyg0KV0gPSAxMTE7DQoJY1soNSldID0gNDQ7DQoJY1soNildID0gMzI7DQoJY1soNyldID0gMTE5Ow0KCWNbKDgpXSA9IDExMTsNCgljWyg5KV0gPSAxMTQ7DQoJY1soMTApXSA9IDEwODsNCgljWygxMSldID0gMTAwOw0KfQ0KLy8gQ3VkYWZ5SW50cm9kdWN0aW9uLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIGFkZFZlY3RvcihnbG9iYWwgaW50KiBhLCBpbnQgYUxlbjAsIGdsb2JhbCBpbnQqIGIsIGludCBiTGVuMCwgZ2xvYmFsIGludCogYywgaW50IGNMZW4wKQ0Kew0KCWludCB4ID0gZ2V0X2dyb3VwX2lkKDApOw0KCWlmICh4IDwgYUxlbjApDQoJew0KCQljWyh4KV0gPSBhWyh4KV0gKyBiWyh4KV07DQoJfQ0KfQ0K</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="myKernel" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyIntroduction.Program</Type>
+      <Assembly>CudafyIntroduction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>CudafyIntroduction</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe</AssemblyPath>
+      <Checksum>2067605656</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="add" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyIntroduction.Program</Type>
+      <Assembly>CudafyIntroduction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>CudafyIntroduction</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe</AssemblyPath>
+      <Checksum>2067605656</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="System.Int32" Name="a" Position="0" />
+        <Parameter Type="System.Int32" Name="b" Position="1" />
+        <Parameter Type="System.Int32[]" Name="c" Position="2" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="WriteHelloWorldOnGPU" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyIntroduction.Program</Type>
+      <Assembly>CudafyIntroduction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>CudafyIntroduction</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe</AssemblyPath>
+      <Checksum>2067605656</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="System.Char[]" Name="c" Position="0" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="addVector" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyIntroduction.Program</Type>
+      <Assembly>CudafyIntroduction, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>CudafyIntroduction</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Desktop\CudafyIntroduction\CudafyIntroduction\bin\Release\CudafyIntroduction.exe</AssemblyPath>
+      <Checksum>2067605656</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Int32[]" Name="a" Position="1" />
+        <Parameter Type="System.Int32[]" Name="b" Position="2" />
+        <Parameter Type="System.Int32[]" Name="c" Position="3" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>
