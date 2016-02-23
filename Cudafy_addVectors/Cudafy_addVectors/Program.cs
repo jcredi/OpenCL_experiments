@@ -20,7 +20,6 @@ namespace CudafyByExample
     class Program
     {
 
-        #region Main method
         [STAThread]
         static void Main(string[] args)
         {
@@ -28,7 +27,7 @@ namespace CudafyByExample
             {
                 GPGPU gpu = InitializeGPU();
 
-                const int N = 1024 * 4096;
+                int N = (int)Math.Pow(2, 24);
 
                 // declare some arrays and allocate corresponding memory on GPU
                 int[] a = new int[N];
@@ -51,7 +50,7 @@ namespace CudafyByExample
                 // launch the kernel on the GPU!
                 Console.WriteLine("Summing two vectors of {0} elements on the GPU...", N);
                 gpu.StartTimer();
-                gpu.Launch(128, 1).addVectors(dev_a, dev_b, dev_c);
+                gpu.Launch(128, 1024).addVectors(dev_a, dev_b, dev_c);
 
                 // copy the array 'c' back from the GPU to the CPU
                 gpu.CopyFromDevice(dev_c, c);
@@ -87,7 +86,6 @@ namespace CudafyByExample
 
             Exit();
         }
-        #endregion
 
         public static GPGPU InitializeGPU()
         {
@@ -171,13 +169,13 @@ namespace CudafyByExample
         public static void addVectors(GThread thread, int[] a, int[] b, int[] c)
         {
             // Get the id of the thread.
-            int threadID = thread.blockIdx.x;
+            int threadID = thread.threadIdx.x + thread.blockIdx.x * thread.blockDim.x;
             // Make sure that the id is less than the length of the vectors
             while (threadID < a.Length)
             {
                 c[threadID] = a[threadID] + b[threadID];
                 // increment the thread id by the number of blocks in the grid
-                threadID += thread.gridDim.x;
+                threadID += thread.blockDim.x * thread.gridDim.x;
             }
         }
 

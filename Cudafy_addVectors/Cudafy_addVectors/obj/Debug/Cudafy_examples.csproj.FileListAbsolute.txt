@@ -6,3 +6,6 @@ c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_exa
 c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.csprojResolveAssemblyReference.cache
 c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.exe
 c:\users\jacopo\documents\visual studio 2012\Projects\Cudafy_examples\Cudafy_examples\obj\Debug\Cudafy_examples.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy_examples.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\obj\Debug\Cudafy_examples.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\obj\Debug\Cudafy_examples.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cudafy_examples", "Cudafy_examples\Cudafy_examples.csproj", "{2B5726F1-8E55-4DF9-A890-B946947FC0CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cudafy_addVectors", "Cudafy_addVectors\Cudafy_addVectors.csproj", "{2B5726F1-8E55-4DF9-A890-B946947FC0CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

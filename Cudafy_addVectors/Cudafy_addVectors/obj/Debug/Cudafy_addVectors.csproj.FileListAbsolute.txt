@@ -1,0 +1,8 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy_examples.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\obj\Debug\Cudafy_examples.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\obj\Debug\Cudafy_examples.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy_examples.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy_examples.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\obj\Debug\Cudafy_addVectors.csprojResolveAssemblyReference.cache
