@@ -1,0 +1,9 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy_ripple.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\obj\Debug\Cudafy_ripple.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy_ripple.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy_ripple.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\cudafycl.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\obj\Debug\Cudafy_ripple.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\obj\Debug\Cudafy_ripple.pdb

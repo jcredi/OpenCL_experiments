@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="ripple_gpu" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="4a5aec78-19c1-4eda-a4ff-e89f790a73d3" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLnJpcHBsZV9ncHUNCl9fa2VybmVsICB2b2lkIHRoZWtlcm5lbChnbG9iYWwgdW5zaWduZWQgY2hhciogcHRyLCBpbnQgcHRyTGVuMCwgaW50IHRpY2tzKTsNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLnJpcHBsZV9ncHUNCl9fa2VybmVsICB2b2lkIHRoZWtlcm5lbChnbG9iYWwgdW5zaWduZWQgY2hhciogcHRyLCBpbnQgcHRyTGVuMCwgaW50IHRpY2tzKQ0Kew0KCWludCBudW0gPSBnZXRfbG9jYWxfaWQoMCkgKyBnZXRfZ3JvdXBfaWQoMCkgKiBnZXRfbG9jYWxfc2l6ZSgwKTsNCglpbnQgbnVtMiA9IGdldF9sb2NhbF9pZCgxKSArIGdldF9ncm91cF9pZCgxKSAqIGdldF9sb2NhbF9zaXplKDEpOw0KCWludCBudW0zID0gbnVtICsgbnVtMiAqIGdldF9sb2NhbF9zaXplKDApICogZ2V0X251bV9ncm91cHMoMCk7DQoJZmxvYXQgbnVtNCA9IChmbG9hdCkobnVtIC0gNTEyKTsNCglmbG9hdCBudW01ID0gKGZsb2F0KShudW0yIC0gNTEyKTsNCglmbG9hdCBudW02ID0gc3FydChudW00ICogbnVtNCArIG51bTUgKiBudW01KTsNCgl1bnNpZ25lZCBjaGFyIGIgPSAodW5zaWduZWQgY2hhcikoMTI4LjBmICsgMTI3LjBmICogY29zKG51bTYgLyAxMC4wZiAtIChmbG9hdCl0aWNrcyAvIDcuMGYpIC8gKG51bTYgLyAxMC4wZiArIDEuMGYpKTsNCglwdHJbKG51bTMgKiA0KV0gPSBiOw0KCXB0clsobnVtMyAqIDQgKyAxKV0gPSBiOw0KCXB0clsobnVtMyAqIDQgKyAyKV0gPSBiOw0KCXB0clsobnVtMyAqIDQgKyAzKV0gPSAyNTU7DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="thekernel" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyByExample.ripple_gpu</Type>
+      <Assembly>Cudafy_ripple, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Cudafy_ripple</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_ripple\Cudafy_ripple\bin\Debug\Cudafy_ripple.exe</AssemblyPath>
+      <Checksum>1486027172</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Byte[]" Name="ptr" Position="1" />
+        <Parameter Type="System.Int32" Name="ticks" Position="2" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

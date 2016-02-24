@@ -4,7 +4,7 @@
   <PTXMODULES />
   <BinaryModules />
   <SourceCodes>
-    <SourceCodeFile ID="52569311-9278-470e-be57-95461abd06a7" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIGFkZFZlY3RvcnMoZ2xvYmFsIGludCogYSwgaW50IGFMZW4wLCBnbG9iYWwgaW50KiBiLCBpbnQgYkxlbjAsIGdsb2JhbCBpbnQqIGMsIGludCBjTGVuMCk7DQoNCi8vIEN1ZGFmeUJ5RXhhbXBsZS5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBhZGRWZWN0b3JzKGdsb2JhbCBpbnQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGludCogYiwgaW50IGJMZW4wLCBnbG9iYWwgaW50KiBjLCBpbnQgY0xlbjApDQp7DQoJZm9yIChpbnQgaSA9IGdldF9sb2NhbF9pZCgwKSArIGdldF9ncm91cF9pZCgwKSAqIGdldF9sb2NhbF9zaXplKDApOyBpIDwgYUxlbjA7IGkgKz0gZ2V0X2xvY2FsX3NpemUoMCkgKiBnZXRfbnVtX2dyb3VwcygwKSkNCgl7DQoJCWNbKGkpXSA9IGFbKGkpXSArIGJbKGkpXTsNCgl9DQp9DQo=</SourceCodeFile>
+    <SourceCodeFile ID="052fda23-d68e-49d0-91c4-7c65b1c53ed7" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIGFkZFZlY3RvcnMoZ2xvYmFsIGludCogYSwgaW50IGFMZW4wLCBnbG9iYWwgaW50KiBiLCBpbnQgYkxlbjAsIGdsb2JhbCBpbnQqIGMsIGludCBjTGVuMCk7DQoNCi8vIEN1ZGFmeUJ5RXhhbXBsZS5Qcm9ncmFtDQpfX2tlcm5lbCAgdm9pZCBhZGRWZWN0b3JzKGdsb2JhbCBpbnQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGludCogYiwgaW50IGJMZW4wLCBnbG9iYWwgaW50KiBjLCBpbnQgY0xlbjApDQp7DQoJZm9yIChpbnQgaSA9IGdldF9sb2NhbF9pZCgwKSArIGdldF9ncm91cF9pZCgwKSAqIGdldF9sb2NhbF9zaXplKDApOyBpIDwgYUxlbjA7IGkgKz0gZ2V0X2xvY2FsX3NpemUoMCkgKiBnZXRfbnVtX2dyb3VwcygwKSkNCgl7DQoJCWNbKGkpXSA9IGFbKGkpXSArIGJbKGkpXTsNCgl9DQp9DQo=</SourceCodeFile>
   </SourceCodes>
   <Functions>
     <CudafyKernelMethod Name="addVectors" Type="Global" IsDummy="false" DummyBehaviour="Default">
@@ -12,7 +12,7 @@
       <Assembly>Cudafy_examples, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
       <AssemblyName>Cudafy_examples</AssemblyName>
       <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_addVectors\Cudafy_addVectors\bin\Debug\Cudafy_examples.exe</AssemblyPath>
-      <Checksum>3382603441</Checksum>
+      <Checksum>3012347415</Checksum>
       <Parameters>
         <ReturnType>System.Void</ReturnType>
         <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />

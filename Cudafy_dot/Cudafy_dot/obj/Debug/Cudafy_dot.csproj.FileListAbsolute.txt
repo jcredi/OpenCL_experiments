@@ -1,0 +1,9 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy_dot.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy_dot.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy_dot.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\cudafycl.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\obj\Debug\Cudafy_dot.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\obj\Debug\Cudafy_dot.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\obj\Debug\Cudafy_dot.pdb

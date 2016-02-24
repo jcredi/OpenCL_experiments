@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Program" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="704306b9-b636-4c6d-83bf-a2a0cac9c8a5" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIERvdChnbG9iYWwgZmxvYXQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGZsb2F0KiBiLCBpbnQgYkxlbjAsIGdsb2JhbCBmbG9hdCogYywgaW50IGNMZW4wKTsNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLlByb2dyYW0NCl9fa2VybmVsICB2b2lkIERvdChnbG9iYWwgZmxvYXQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGZsb2F0KiBiLCBpbnQgYkxlbjAsIGdsb2JhbCBmbG9hdCogYywgaW50IGNMZW4wKQ0Kew0KCV9fbG9jYWwgZmxvYXQgYXJyYXlbMjU2XTsNCg0KCWludCBhcnJheUxlbjAgPSAyNTY7DQoJaW50IGkgPSBnZXRfbG9jYWxfaWQoMCkgKyBnZXRfZ3JvdXBfaWQoMCkgKiBnZXRfbG9jYWxfc2l6ZSgwKTsNCglpbnQgeCA9IGdldF9sb2NhbF9pZCgwKTsNCglmbG9hdCBudW0gPSAwLjBmOw0KCXdoaWxlIChpIDwgYUxlbjApDQoJew0KCQludW0gKz0gYVsoaSldICogYlsoaSldOw0KCQlpICs9IGdldF9sb2NhbF9zaXplKDApICogZ2V0X251bV9ncm91cHMoMCk7DQoJfQ0KCWFycmF5Wyh4KV0gPSBudW07DQoJYmFycmllcihDTEtfTE9DQUxfTUVNX0ZFTkNFKTsNCglmb3IgKGludCBudW0yID0gZ2V0X2xvY2FsX3NpemUoMCkgLyAyOyBudW0yICE9IDA7IG51bTIgLz0gMikNCgl7DQoJCWlmICh4IDwgbnVtMikNCgkJew0KCQkJYXJyYXlbKHgpXSArPSBhcnJheVsoeCArIG51bTIpXTsNCgkJfQ0KCQliYXJyaWVyKENMS19MT0NBTF9NRU1fRkVOQ0UpOw0KCX0NCglpZiAoeCA9PSAwKQ0KCXsNCgkJY1soZ2V0X2dyb3VwX2lkKDApKV0gPSBhcnJheVsoMCldOw0KCX0NCn0NCg==</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="Dot" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyByExample.Program</Type>
+      <Assembly>Cudafy_dot, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Cudafy_dot</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Cudafy_dot\Cudafy_dot\bin\Debug\Cudafy_dot.exe</AssemblyPath>
+      <Checksum>252337975</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>
