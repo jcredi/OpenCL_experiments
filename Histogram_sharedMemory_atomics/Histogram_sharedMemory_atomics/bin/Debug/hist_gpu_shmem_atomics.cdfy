@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="hist_gpu_shmem_atomics" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="a05e7e4c-3dd1-415f-b80d-5db624ec804d" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLmhpc3RfZ3B1X3NobWVtX2F0b21pY3MNCl9fa2VybmVsICB2b2lkIGhpc3RvX2tlcm5lbChnbG9iYWwgdW5zaWduZWQgY2hhciogYnVmZmVyLCBpbnQgYnVmZmVyTGVuMCwgaW50IHNpemUsIGdsb2JhbCB1bnNpZ25lZCBpbnQqIGhpc3RvLCBpbnQgaGlzdG9MZW4wKTsNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLmhpc3RfZ3B1X3NobWVtX2F0b21pY3MNCl9fa2VybmVsICB2b2lkIGhpc3RvX2tlcm5lbChnbG9iYWwgdW5zaWduZWQgY2hhciogYnVmZmVyLCBpbnQgYnVmZmVyTGVuMCwgaW50IHNpemUsIGdsb2JhbCB1bnNpZ25lZCBpbnQqIGhpc3RvLCBpbnQgaGlzdG9MZW4wKQ0Kew0KCV9fbG9jYWwgdW5zaWduZWQgaW50IGFycmF5WzI1Nl07DQoNCglpbnQgYXJyYXlMZW4wID0gMjU2Ow0KCWFycmF5WyhnZXRfbG9jYWxfaWQoMCkpXSA9IDB1Ow0KCWJhcnJpZXIoQ0xLX0xPQ0FMX01FTV9GRU5DRSk7DQoJaW50IGkgPSBnZXRfbG9jYWxfaWQoMCkgKyBnZXRfZ3JvdXBfaWQoMCkgKiBnZXRfbG9jYWxfc2l6ZSgwKTsNCglpbnQgbnVtID0gZ2V0X2xvY2FsX3NpemUoMCkgKiBnZXRfbnVtX2dyb3VwcygwKTsNCgl3aGlsZSAoaSA8IHNpemUpDQoJew0KCQlhdG9taWNfYWRkKCZhcnJheVsoKGludClidWZmZXJbKGkpXSldLCAxdSk7DQoJCWkgKz0gbnVtOw0KCX0NCgliYXJyaWVyKENMS19MT0NBTF9NRU1fRkVOQ0UpOw0KCWF0b21pY19hZGQoJmhpc3RvWyhnZXRfbG9jYWxfaWQoMCkpXSwgYXJyYXlbKGdldF9sb2NhbF9pZCgwKSldKTsNCn0NCg==</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="histo_kernel" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyByExample.hist_gpu_shmem_atomics</Type>
+      <Assembly>Histogram_sharedMemory_atomics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Histogram_sharedMemory_atomics</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Histogram_sharedMemory_atomics\Histogram_sharedMemory_atomics\bin\Debug\Histogram_sharedMemory_atomics.exe</AssemblyPath>
+      <Checksum>2042902961</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Byte[]" Name="buffer" Position="1" />
+        <Parameter Type="System.Int32" Name="size" Position="2" />
+        <Parameter Type="System.UInt32[]" Name="histo" Position="3" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

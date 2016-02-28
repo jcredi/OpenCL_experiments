@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="basic_double_stream_correct" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="df32e43f-0fe9-47b2-bfc4-36ded52839d8" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gQ3VkYWZ5QnlFeGFtcGxlLmJhc2ljX2RvdWJsZV9zdHJlYW1fY29ycmVjdA0KX19rZXJuZWwgIHZvaWQgdGhla2VybmVsKGdsb2JhbCBpbnQqIGEsIGludCBhTGVuMCwgZ2xvYmFsIGludCogYiwgaW50IGJMZW4wLCBnbG9iYWwgaW50KiBjLCBpbnQgY0xlbjApOw0KDQovLyBDdWRhZnlCeUV4YW1wbGUuYmFzaWNfZG91YmxlX3N0cmVhbV9jb3JyZWN0DQpfX2tlcm5lbCAgdm9pZCB0aGVrZXJuZWwoZ2xvYmFsIGludCogYSwgaW50IGFMZW4wLCBnbG9iYWwgaW50KiBiLCBpbnQgYkxlbjAsIGdsb2JhbCBpbnQqIGMsIGludCBjTGVuMCkNCnsNCglpbnQgbnVtID0gZ2V0X2xvY2FsX2lkKDApICsgZ2V0X2dyb3VwX2lkKDApICogZ2V0X2xvY2FsX3NpemUoMCk7DQoJaWYgKG51bSA8IDEwNDg1NzYpDQoJew0KCQlpbnQgbnVtMiA9IChudW0gKyAxKSAlIDI1NjsNCgkJaW50IG51bTMgPSAobnVtICsgMikgJSAyNTY7DQoJCWZsb2F0IG51bTQgPSAoZmxvYXQpKGFbKG51bSldICsgYVsobnVtMildICsgYVsobnVtMyldKSAvIDMuMGY7DQoJCWZsb2F0IG51bTUgPSAoZmxvYXQpKGJbKG51bSldICsgYlsobnVtMildICsgYlsobnVtMyldKSAvIDMuMGY7DQoJCWNbKG51bSldID0gKGludCkobnVtNCArIG51bTUpIC8gMjsNCgl9DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="thekernel" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>CudafyByExample.basic_double_stream_correct</Type>
+      <Assembly>Basic_double_stream, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>Basic_double_stream</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Basic_double_stream.exe</AssemblyPath>
+      <Checksum>2218065737</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Int32[]" Name="a" Position="1" />
+        <Parameter Type="System.Int32[]" Name="b" Position="2" />
+        <Parameter Type="System.Int32[]" Name="c" Position="3" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

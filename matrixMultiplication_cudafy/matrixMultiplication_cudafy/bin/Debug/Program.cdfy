@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Program" DebugInfo="false" HasCudaSourceCode="false" HasPTX="false" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES />
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="93d5a4e4-ed33-4cfd-826e-7321138ecb82" Language="OpenCL" Arch="OpenCL">I2lmIGRlZmluZWQoY2xfa2hyX2ZwNjQpDQojcHJhZ21hIE9QRU5DTCBFWFRFTlNJT04gY2xfa2hyX2ZwNjQ6IGVuYWJsZQ0KI2VsaWYgZGVmaW5lZChjbF9hbWRfZnA2NCkNCiNwcmFnbWEgT1BFTkNMIEVYVEVOU0lPTiBjbF9hbWRfZnA2NDogZW5hYmxlDQojZW5kaWYNCg0KLy8gbWF0cml4TXVsdGlwbGljYXRpb25fY3VkYWZ5LlByb2dyYW0NCl9fa2VybmVsICB2b2lkIE11bHRpcGx5TWF0cmljZXMoZ2xvYmFsIGZsb2F0KiBBLCBpbnQgQUxlbjAsIGludCBBTGVuMSwgZ2xvYmFsIGZsb2F0KiBCLCBpbnQgQkxlbjAsIGludCBCTGVuMSwgZ2xvYmFsIGludCogZGltZW5zaW9ucywgaW50IGRpbWVuc2lvbnNMZW4wLCBnbG9iYWwgZmxvYXQqIEMsIGludCBDTGVuMCwgaW50IENMZW4xKTsNCg0KLy8gbWF0cml4TXVsdGlwbGljYXRpb25fY3VkYWZ5LlByb2dyYW0NCl9fa2VybmVsICB2b2lkIE11bHRpcGx5TWF0cmljZXMoZ2xvYmFsIGZsb2F0KiBBLCBpbnQgQUxlbjAsIGludCBBTGVuMSwgZ2xvYmFsIGZsb2F0KiBCLCBpbnQgQkxlbjAsIGludCBCTGVuMSwgZ2xvYmFsIGludCogZGltZW5zaW9ucywgaW50IGRpbWVuc2lvbnNMZW4wLCBnbG9iYWwgZmxvYXQqIEMsIGludCBDTGVuMCwgaW50IENMZW4xKQ0Kew0KCWludCBudW0gPSBnZXRfZ3JvdXBfaWQoMCkgKiBnZXRfbG9jYWxfc2l6ZSgwKSArIGdldF9sb2NhbF9pZCgwKTsNCglpbnQgbnVtMiA9IGdldF9ncm91cF9pZCgxKSAqIGdldF9sb2NhbF9zaXplKDEpICsgZ2V0X2xvY2FsX2lkKDEpOw0KCWlmIChudW0gPCBkaW1lbnNpb25zWygwKV0gJiYgbnVtMiA8IGRpbWVuc2lvbnNbKDIpXSkNCgl7DQoJCWZsb2F0IG51bTMgPSAwLjBmOw0KCQlmb3IgKGludCBpID0gMDsgaSA8IGRpbWVuc2lvbnNbKDEpXTsgaSsrKQ0KCQl7DQoJCQludW0zICs9IEFbKG51bSkgKiBBTGVuMSArICggaSldICogQlsoaSkgKiBCTGVuMSArICggbnVtMildOw0KCQl9DQoJCUNbKG51bSkgKiBDTGVuMSArICggbnVtMildID0gbnVtMzsNCgl9DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="MultiplyMatrices" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>matrixMultiplication_cudafy.Program</Type>
+      <Assembly>matrixMultiplication_cudafy, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>matrixMultiplication_cudafy</AssemblyName>
+      <AssemblyPath>C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\matrixMultiplication_cudafy.exe</AssemblyPath>
+      <Checksum>2295960853</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="gthread" Position="0" />
+        <Parameter Type="System.Single[,]" Name="A" Position="1" />
+        <Parameter Type="System.Single[,]" Name="B" Position="2" />
+        <Parameter Type="System.Int32[]" Name="dimensions" Position="3" />
+        <Parameter Type="System.Single[,]" Name="C" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

@@ -1,0 +1,7 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\bin\Debug\openclNET_test_image.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\obj\Debug\openclNET_test_image.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\bin\Debug\openclNET_test_image.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\bin\Debug\openclNET_test_image.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\bin\Debug\OpenCL.Net.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\obj\Debug\openclNET_test_image.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\openclNET_test_image\openclNET_test_image\obj\Debug\openclNET_test_image.pdb

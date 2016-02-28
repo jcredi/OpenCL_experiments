@@ -1,0 +1,11 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\matrixMultiplication_cudafy.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\matrixMultiplication_cudafy.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\matrixMultiplication_cudafy.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\cudafycl.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\obj\Debug\matrixMultiplication_cudafy.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\obj\Debug\matrixMultiplication_cudafy.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\obj\Debug\matrixMultiplication_cudafy.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\MathNet.Numerics.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\matrixMultiplication_cudafy\matrixMultiplication_cudafy\bin\Debug\MathNet.Numerics.xml

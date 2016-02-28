@@ -1,0 +1,9 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Basic_double_stream.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Basic_double_stream.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Basic_double_stream.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\cudafycl.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\obj\Debug\Basic_double_stream.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\obj\Debug\Basic_double_stream.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\Basic_double_stream\Basic_double_stream\obj\Debug\Basic_double_stream.pdb

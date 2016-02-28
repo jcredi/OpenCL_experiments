@@ -1,0 +1,9 @@
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\test_blas.exe.config
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\test_blas.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\test_blas.pdb
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\Cudafy.NET.dll
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\cudafycl.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\bin\Debug\Cudafy.NET.xml
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\obj\Debug\test_blas.csprojResolveAssemblyReference.cache
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\obj\Debug\test_blas.exe
+C:\Users\jacopo\Dropbox\Chalmers\MSc thesis\OpenCL_experiments\test_blas\test_blas\obj\Debug\test_blas.pdb
